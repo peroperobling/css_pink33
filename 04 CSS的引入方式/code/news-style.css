@@ -1,0 +1,30 @@
+h2 {
+    font-weight: normal;
+}
+.center {
+    text-align: center;
+}
+.date {
+    color: grey;
+}
+.ad {
+    color: brown;
+}
+.shoucang {
+    text-decoration: none;
+}
+.search-text {
+    color: red;
+}
+.search {
+    color: #009100;
+    font-weight: 700;
+}
+.weibo {
+    color: #6dc9e7;
+    font: 16px, 'Microsoft YaHei';
+}
+p {
+    line-height: 26px;
+    text-indent: 2em;
+}
